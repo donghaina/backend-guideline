@@ -5,14 +5,18 @@ $password = "";
 $dbname = "portfolio";
 
 // 创建连接
-$conn = mysqli_connect($servername, $username, $password, $dbname);
+$conn = new mysqli($servername, $username, $password, $dbname);
 mysqli_set_charset($conn, "utf8");
-// Check connection
-if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "SELECT * FROM works";
+
+$id = $_GET['id'];
+
+
+$sql = "SELECT * FROM works WHERE id = ".$id;
 $result = mysqli_query($conn, $sql);
 
 $works_list = [];
@@ -28,7 +32,7 @@ if (mysqli_num_rows($result) > 0) {
 
         ];
     }
-    echo(json_encode($works_list));
+    echo(json_encode($works_list[0]));
 } else {
     echo "0 results";
 }

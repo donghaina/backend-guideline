@@ -9,29 +9,34 @@
     <link rel="stylesheet" href="../assets/style/main.css">
 </head>
 <body>
-<form action="../db/db.php" method="post">
-    <div>
-        <label for="title">作品名：</label>
-        <input type="text" name="title" id="title">
-    </div>
-    <div>
-        <label for="intro">作品简介：</label>
-        <input type="text" name="intro" id="intro"><br>
-    </div>
-    <div>
-        <label for="pic">作品大图：</label>
-        <input type="text" name="pic" id="pic"><br>
-    </div>
-    <div>
-        <label for="link">在线演示地址：</label>
-        <input type="text" name="link" id="link"><br>
-    </div>
-    <div>
-        <label for="github">代码地址：</label>
-        <input type="text" name="github" id="github"><br>
-    </div>
+<div id="work">
+    <form action="../db/update_work.php" method="post">
+        <div>
+            <label for="title">作品名：</label>
+            <input type="text" name="title" id="title" v-model="work.title">
+        </div>
+        <div>
+            <label for="intro">作品简介：</label>
+            <input type="text" name="intro" id="intro" v-model="work.intro"><br>
+        </div>
+        <div>
+            <label for="pic">作品大图：</label>
+            <input type="text" name="pic" id="pic" v-model="work.pic"><br>
+        </div>
+        <div>
+            <label for="link">在线演示地址：</label>
+            <input type="text" name="link" id="link" v-model="work.link"><br>
+        </div>
+        <div>
+            <label for="github">代码地址：</label>
+            <input type="text" name="github" id="github" v-model="work.github"><br>
+        </div>
 
-    <input type="submit" value="提交">
-</form>
+        <input type="submit" value="提交" @click="handleUpdate(work.id)">
+    </form>
+</div>
+<script src="../../lib/js/vue.js"></script>
+<script src="../../lib/js/axios.min.js"></script>
+<script src="../assets/js/work.js"></script>
 </body>
 </html>

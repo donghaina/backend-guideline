@@ -17,6 +17,7 @@
             <th>作品大图</th>
             <th>在线演示地址</th>
             <th>代码地址</th>
+            <th>操作</th>
         </tr>
         <tr v-for="(work,index) in works_data" :key="index">
             <td>{{work.title}}</td>
@@ -24,11 +25,15 @@
             <td>{{work.pic}}</td>
             <td>{{work.link}}</td>
             <td>{{work.github}}</td>
+            <td>
+                <a href="javascript:;" @click="handleDelete(work.id)">删除</a>
+                <a :href="'work.php?id='+work.id">修改</a>
+            </td>
         </tr>
     </table>
 </div>
 <script src="../../lib/js/vue.js"></script>
 <script src="../../lib/js/axios.min.js"></script>
-<script src="../assets/js/main.js"></script>
+<script src="../assets/js/works.js"></script>
 </body>
 </html>
