@@ -10,15 +10,9 @@
 <div id="app" v-cloak>
     <ul>
         <li v-for="(news,index) in news_data">
-            <a
-                    :href="news.path"
-                    target="_blank"
-                    :key="index">
-                {{news.title}}
-            </a>
+            <a :href="news.path" target="_blank" :key="index">{{news.title}}</a>
         </li>
     </ul>
-
 </div>
 <script src="lib/js/vue.js"></script>
 <script src="lib/js/axios.min.js"></script>

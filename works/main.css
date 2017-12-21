@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clearF {
+    overflow: auto;
+    zoom: 1;
+}
+
+.fL {
+    float: left;
+}
+
+.fR {
+    float: right;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+}
+
+a:hover {
+    color: #666666;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-color: #eeeeee;
+    font-family: Verdana, Helvetica, 'Microsoft Yahei', 'PingFang SC', serif;
+    color: #333333;
+}
+
+form>div{
+    margin: 10px 0;
+}
