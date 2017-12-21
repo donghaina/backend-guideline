@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>小董君作品集</title>
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="../assets/style/main.css">
 </head>
 <body>
 <div id="app">
@@ -27,8 +27,8 @@
         </tr>
     </table>
 </div>
-<script src="../lib/js/vue.js"></script>
-<script src="../lib/js/axios.min.js"></script>
-<script src="main.js"></script>
+<script src="../../lib/js/vue.js"></script>
+<script src="../../lib/js/axios.min.js"></script>
+<script src="../assets/js/main.js"></script>
 </body>
 </html>

@@ -6,7 +6,7 @@ var app = new Vue({
     methods: {
         getData: function () {
             var self = this;
-            axios.get('./get_works_list.php')
+            axios.get('../db/get_works_list.php')
                 .then(function (response) {
                     console.log(response.data);
                     self.works_data = response.data;

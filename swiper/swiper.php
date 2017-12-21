@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
     <!-- Link Swiper's CSS -->
-    <link rel="stylesheet" href="lib/css/swiper.min.css">
+    <link rel="stylesheet" href="../lib/css/swiper.min.css">
 
     <!-- Demo styles -->
     <style>
@@ -95,8 +95,8 @@
 
 
 <!-- Swiper JS -->
-<script src="lib/js/vue.js"></script>
-<script src="lib/js/swiper.min.js"></script>
+<script src="../lib/js/vue.js"></script>
+<script src="../lib/js/swiper.min.js"></script>
 
 <!-- Initialize Swiper -->
 <script>

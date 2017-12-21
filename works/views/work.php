@@ -6,10 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>小董君作品集</title>
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="../assets/style/main.css">
 </head>
 <body>
-<form action="db.php" method="post">
+<form action="../db/db.php" method="post">
     <div>
         <label for="title">作品名：</label>
         <input type="text" name="title" id="title">

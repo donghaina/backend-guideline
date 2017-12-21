@@ -14,8 +14,8 @@
         </li>
     </ul>
 </div>
-<script src="lib/js/vue.js"></script>
-<script src="lib/js/axios.min.js"></script>
+<script src="../lib/js/vue.js"></script>
+<script src="../lib/js/axios.min.js"></script>
 <script src="main.js"></script>
 </body>
 </html>
