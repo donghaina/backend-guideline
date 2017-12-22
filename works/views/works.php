@@ -26,7 +26,7 @@
             <td>{{work.link}}</td>
             <td>{{work.github}}</td>
             <td>
-                <a href="javascript:;" @click="handleDelete(work.id)">删除</a>
+                <a :href="'../db/delete_work.php?id='+work.id">删除</a>
                 <a :href="'work.php?id='+work.id">修改</a>
             </td>
         </tr>
