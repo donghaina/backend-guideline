@@ -12,7 +12,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 print_r($_POST);
-$id = $_POST['work_id'];
+$id = $_GET['id'];
 $title = $_POST['title'];
 $intro = $_POST['intro'];
 $pic = $_POST['pic'];

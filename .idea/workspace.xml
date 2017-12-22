@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e4e226-83e1-4a0d-bf98-c8041caed912" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/works/assets/js/main.js" afterPath="$PROJECT_DIR$/works/assets/js/works.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/works/db/db.php" afterPath="$PROJECT_DIR$/works/db/add_work.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/works/views/work.php" afterPath="$PROJECT_DIR$/works/views/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/get_works_list.php" afterPath="$PROJECT_DIR$/works/db/get_works_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/views/works.php" afterPath="$PROJECT_DIR$/works/views/works.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/assets/js/work.js" afterPath="$PROJECT_DIR$/works/assets/js/work.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/update_work.php" afterPath="$PROJECT_DIR$/works/db/update_work.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/views/work.php" afterPath="$PROJECT_DIR$/works/views/work.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,45 +25,31 @@
       <file leaf-file-name="work.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/views/work.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="34" column="71" lean-forward="true" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
+            <state relative-caret-position="122">
+              <caret line="12" column="70" lean-forward="true" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_work.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/db/get_work.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <marker date="1513860657034" expanded="true" signature="317:336" ph="INSERT INTO works... " />
-                <marker date="1513860657034" expanded="true" signature="317:347" ph="SELECT * FRO... works" />
-                <marker date="1513860657034" expanded="true" signature="317:348" ph="SELECT * FRO... works" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="work.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/assets/js/work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="399">
+              <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="update_work.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="update_work.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
-                <marker date="1513863385591" expanded="true" signature="464:575" ph="INSERT INTO works... " />
-                <marker date="1513863385591" expanded="true" signature="464:594" ph="UPDATE works... " />
+                <marker date="1513903961590" expanded="true" signature="458:569" ph="INSERT INTO works... " />
+                <marker date="1513903961590" expanded="true" signature="458:588" ph="UPDATE works... " />
               </folding>
             </state>
           </provider>
@@ -132,9 +115,9 @@
         <option value="$PROJECT_DIR$/works/views/works.php" />
         <option value="$PROJECT_DIR$/works/db/get_works_list.php" />
         <option value="$PROJECT_DIR$/works/db/get_work.php" />
-        <option value="$PROJECT_DIR$/works/views/work.php" />
         <option value="$PROJECT_DIR$/works/db/delete_work.php" />
         <option value="$PROJECT_DIR$/works/assets/js/work.js" />
+        <option value="$PROJECT_DIR$/works/views/work.php" />
         <option value="$PROJECT_DIR$/works/db/update_work.php" />
       </list>
     </option>
@@ -384,12 +367,12 @@
       <workItem from="1513480000992" duration="417000" />
       <workItem from="1513530690936" duration="499000" />
       <workItem from="1513564591248" duration="7170000" />
-      <workItem from="1513612755057" duration="14313000" />
+      <workItem from="1513612755057" duration="16402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45027000" />
+    <option name="totallyTimeSpent" value="47116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -780,14 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/views/work.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="34" column="71" lean-forward="true" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/works/views/works.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -819,7 +794,7 @@
     <entry file="file://$PROJECT_DIR$/works/db/get_work.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding>
             <marker date="1513860657034" expanded="true" signature="317:336" ph="INSERT INTO works... " />
             <marker date="1513860657034" expanded="true" signature="317:347" ph="SELECT * FRO... works" />
@@ -828,22 +803,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
+    <entry file="file://$PROJECT_DIR$/works/views/work.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <marker date="1513863385591" expanded="true" signature="464:575" ph="INSERT INTO works... " />
-            <marker date="1513863385591" expanded="true" signature="464:594" ph="UPDATE works... " />
-          </folding>
+        <state relative-caret-position="122">
+          <caret line="12" column="70" lean-forward="true" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/assets/js/work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="399">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <marker date="1513903961590" expanded="true" signature="458:569" ph="INSERT INTO works... " />
+            <marker date="1513903961590" expanded="true" signature="458:588" ph="UPDATE works... " />
+          </folding>
         </state>
       </provider>
     </entry>

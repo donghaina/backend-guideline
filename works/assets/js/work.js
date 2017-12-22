@@ -16,12 +16,10 @@ var app = new Vue({
                     console.log(error);
                 });
         },
-        handleUpdate:function (work_id) {
+        handleUpdate:function () {
             var self = this;
-            self.work.work_id =  work_id;
-            debugger;
             console.log(self.work);
-            axios.put('../db/update_work.php',self.work)
+            axios.post('../db/update_work.php',self.work)
                 .then(function (response) {
                     console.log(response.data);
                     // self.work = response.data;

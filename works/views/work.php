@@ -10,7 +10,7 @@
 </head>
 <body>
 <div id="work">
-    <form action="../db/update_work.php" method="post">
+    <form :action="'../db/update_work.php?id='+work.id" method="post">
         <div>
             <label for="title">作品名：</label>
             <input type="text" name="title" id="title" v-model="work.title">
@@ -32,7 +32,7 @@
             <input type="text" name="github" id="github" v-model="work.github"><br>
         </div>
 
-        <input type="submit" value="提交" @click="handleUpdate(work.id)">
+        <input type="submit" @click="handleUpdate" value="提交"/>
     </form>
 </div>
 <script src="../../lib/js/vue.js"></script>
