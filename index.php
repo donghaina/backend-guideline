@@ -6,19 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <style>
-        body{
-            background-color: <?php echo '#cccccc'?>;
-        }
-    </style>
 </head>
 <body>
-
-<?php
-    echo '<h1>Hello world!</h1>';
-?>
-<script>
-    alert("<?php echo '这是PHP中的JS'?>");
-</script>
+    <h1>Hello php demo</h1>
 </body>
 </html>
