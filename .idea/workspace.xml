@@ -3,48 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00e4e226-83e1-4a0d-bf98-c8041caed912" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/02-array-api.php" afterPath="$PROJECT_DIR$/array/02-array-api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/02-array-foreach.php" afterPath="$PROJECT_DIR$/array/02-array-foreach.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/02-array.php" afterPath="$PROJECT_DIR$/array/02-array.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array-key-exists.php" afterPath="$PROJECT_DIR$/array/array-key-exists.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array-merge.php" afterPath="$PROJECT_DIR$/array/array-merge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array-pad.php" afterPath="$PROJECT_DIR$/array/array-pad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array-sort.php" afterPath="$PROJECT_DIR$/array/array-sort.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_change_key_case.php" afterPath="$PROJECT_DIR$/array/array_change_key_case.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_chunk.php" afterPath="$PROJECT_DIR$/array/array_chunk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_column.php" afterPath="$PROJECT_DIR$/array/array_column.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_combine.php" afterPath="$PROJECT_DIR$/array/array_combine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_count_values.php" afterPath="$PROJECT_DIR$/array/array_count_values.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/array_diff.php" afterPath="$PROJECT_DIR$/array/array_diff.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/in-array.php" afterPath="$PROJECT_DIR$/array/in-array.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/03-const.php" afterPath="$PROJECT_DIR$/base/03-const.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/demo01.php" afterPath="$PROJECT_DIR$/base/demo01.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/hello-world.php" afterPath="$PROJECT_DIR$/base/hello-world.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data-type-convert/01.php" afterPath="$PROJECT_DIR$/data-type-convert/01.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/axios.min.js" afterPath="$PROJECT_DIR$/lib/js/axios.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/vue.js" afterPath="$PROJECT_DIR$/lib/js/vue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news_cms/main.css" afterPath="$PROJECT_DIR$/news_cms/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news_cms/main.js" afterPath="$PROJECT_DIR$/news_cms/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news_cms/news.php" afterPath="$PROJECT_DIR$/news_cms/news.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oop/LightSwitch.php" afterPath="$PROJECT_DIR$/oop/LightSwitch.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oop/Person.php" afterPath="$PROJECT_DIR$/oop/Person.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oop/Task.php" afterPath="$PROJECT_DIR$/oop/Task.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string/01-string.php" afterPath="$PROJECT_DIR$/string/01-string.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/swiper/goods_list.php" afterPath="$PROJECT_DIR$/swiper/goods_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/swiper/swiper.php" afterPath="$PROJECT_DIR$/swiper/swiper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variable/demo02.php" afterPath="$PROJECT_DIR$/variable/demo02.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/assets/js/work.js" afterPath="$PROJECT_DIR$/works/assets/js/work.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/assets/js/works.js" afterPath="$PROJECT_DIR$/works/assets/js/works.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/assets/style/main.css" afterPath="$PROJECT_DIR$/works/assets/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/add_work.php" afterPath="$PROJECT_DIR$/works/db/add_work.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/delete_work.php" afterPath="$PROJECT_DIR$/works/db/delete_work.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/get_work.php" afterPath="$PROJECT_DIR$/works/db/get_work.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/get_works_list.php" afterPath="$PROJECT_DIR$/works/db/get_works_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/db/update_work.php" afterPath="$PROJECT_DIR$/works/db/update_work.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/views/add.php" afterPath="$PROJECT_DIR$/works/views/add.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/views/work.php" afterPath="$PROJECT_DIR$/works/views/work.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/views/works.php" afterPath="$PROJECT_DIR$/works/views/works.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,62 +20,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add_work.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/db/add_work.php">
+      <file leaf-file-name="Shape.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/Shape.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <marker date="1514002646667" expanded="true" signature="440:554" ph="INSERT INTO works... " />
-              </folding>
+            <state relative-caret-position="832">
+              <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delete_work.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/db/delete_work.php">
+      <file leaf-file-name="Task.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/Task.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding>
-                <marker date="1514002658184" expanded="true" signature="318:352" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_work.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/db/get_work.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <marker date="1514002662876" expanded="true" signature="321:352" ph="SELECT * FRO... works" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_works_list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/db/get_works_list.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding>
-                <marker date="1514002670147" expanded="true" signature="310:329" ph="SELECT * FRO... works" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update_work.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <marker date="1514002674499" expanded="true" signature="462:592" ph="UPDATE works... " />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/swiper.php" />
-        <option value="$PROJECT_DIR$/goods_list.php" />
         <option value="$PROJECT_DIR$/hello-world.php" />
         <option value="$PROJECT_DIR$/01-string.php" />
         <option value="$PROJECT_DIR$/demo01.php" />
@@ -189,6 +105,8 @@
         <option value="$PROJECT_DIR$/works/db/get_work.php" />
         <option value="$PROJECT_DIR$/works/db/get_works_list.php" />
         <option value="$PROJECT_DIR$/works/db/update_work.php" />
+        <option value="$PROJECT_DIR$/oop/Mother.php" />
+        <option value="$PROJECT_DIR$/oop/Shape.php" />
       </list>
     </option>
   </component>
@@ -201,8 +119,37 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1440" />
-    <option name="width" value="1920" />
+    <option name="width" value="1153" />
     <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -222,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -244,31 +190,14 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="works">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="php-demo">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="works">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="db">
+            <PATH_ELEMENT USER_OBJECT="oop">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -276,6 +205,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -392,25 +322,26 @@
       <workItem from="1513564591248" duration="7170000" />
       <workItem from="1513612755057" duration="18019000" />
       <workItem from="1513992029529" duration="2788000" />
-      <workItem from="1514002612315" duration="104000" />
+      <workItem from="1514002612315" duration="748000" />
+      <workItem from="1514018095971" duration="3069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51625000" />
+    <option name="totallyTimeSpent" value="55338000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1440" y="0" width="1153" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1925412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -442,20 +373,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news_cms/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/02-array-api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/01-string.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -742,27 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oop/LightSwitch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop/Person.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop/Task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/works/db/add_work.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -793,6 +689,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <marker date="1514002674499" expanded="true" signature="462:592" ph="UPDATE works... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/works/db/get_works_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -803,13 +709,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/db/update_work.php">
+    <entry file="file://$PROJECT_DIR$/oop/Person.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <marker date="1514002674499" expanded="true" signature="462:592" ph="UPDATE works... " />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/Mother.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/LightSwitch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/Task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/Shape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
